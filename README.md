@@ -49,7 +49,11 @@ At first an ARIMA model was used, and different parameters (values of P, D, and 
 The ACF seemed to drop around three while the PACF seemed to be best at 1. While working through some other models that are not in the final notebook, I noticed a trend in the PACF that there was a significant correlation every four years. This interested me because something important and potentially stressful happens every four years. Presidential elections can be a stressful thing for people who are worried about their security and the economy and potentially trigger depression. 
 
 For more research in this topic I suggest reading these articles:
+
+
 [Headspace](https://www.headspace.com/articles/election-anxiety)
+
+
 [Washington Post](https://www.washingtonpost.com/lifestyle/wellness/stress-detox-election-anxiety/2020/11/09/96e5974c-1fa7-11eb-90dd-abd0f7086a91_story.html)
 
 As a result of this finding, I wanted to use a SARIMA model that could incorporate a seasonality component in the model.
