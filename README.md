@@ -24,9 +24,8 @@ Looking at the graph of mental illness in the U.S. there is little fluctuation b
 
 Even still there is some fluctuation in Depression rates in the U.S. that can be modeled.
 
-```
-![US Depression Rates Over Time](images/US_Depression_Rates_Over_Time.png)
-``` 
+
+![US Depression Rates Over Time](images/US_Depression_Rates_Over_Time.png "US Depression Rates Over Time")
 
 
 ## Data Preparation
