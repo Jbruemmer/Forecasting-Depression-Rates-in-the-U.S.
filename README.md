@@ -85,3 +85,20 @@ Additionally, women are more likely to suffer from this disorder, and examining 
 
 Finally, other disorders are linked to depression so including drug abuse, anxiety disorders, may farther improve the model's accuracy. 
 
+## In Depth Analysis
+If you would like to see more in depth analysis please see either the *[Jupyter Notebook](https://github.com/Jbruemmer/Forecasting-Depression-Rates-in-the-US/blob/main/U.S._Depression_Rates_Analysis.ipynb)* or the *[Slide Deck](https://github.com/Jbruemmer/Forecasting-Depression-Rates-in-the-US/blob/main/U.S._Depression_Rates_Analysis.pdf)*.
+
+### Contact Information:
+#### John Bruemmer:
+Github :[https://github.com/Jbruemmer](https://github.com/Jbruemmer)
+Email: [Johnnybruemmer@gmail.com](mailto:Johnnybruemmer@gmail.com)]
+LinkedIn : [John Bruemmer | LinkedIn](https://www.linkedin.com/in/john-bruemmer-407a58a4/)
+
+## Repository Structure
+```
+├── Images
+├── .gitignore
+├── Presentation_Forecasting_Depression_Rates.pdf
+├── README.md
+├── U.S._Depression_Rate_Analysis.ipynb
+└── U.S._Depression_Rate_Analysis.pdf
