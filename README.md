@@ -1,5 +1,5 @@
 
-# Modeling-Mental-Health-Disease
+# Forecasting Depression Rates in the U.S.
 
 
 ## Overview
